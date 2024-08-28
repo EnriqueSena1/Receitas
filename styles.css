@@ -1,0 +1,26 @@
+.textocabe{
+    color: rgb(246, 226, 226);
+}
+body{
+    
+    width: 600px;
+    margin: 0 auto;
+    background-color:rgb(91, 88, 61);
+    text-align: center;
+    color: aliceblue;
+    font-family: Playfair Display;
+}
+.imapudim{
+    width: 350px;
+    height: 250px;
+    margin: auto;
+}
+
+.butonpudim{
+    background-color: rgb(234, 179, 60);
+    /* color overscroll-behavior-block: 50; */
+    width: 100px;
+    height: 60px;
+    border: 5px solid rgba(0,0,0,0.5);
+    border-radius: 10px 15px;
+}
