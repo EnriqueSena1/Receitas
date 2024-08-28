@@ -6,10 +6,12 @@ body{
 }
 .inicio {
     padding: 15px;
+    width: 5%;
     background-color:#865151;
     color: #fff;
     text-decoration:none;
     text-align: center;
     display: block;
     margin: auto;
+    border-radius: 10px 15px;
 }

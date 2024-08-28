@@ -2,18 +2,17 @@
     color: rgb(246, 226, 226);
 }
 body{
-    
-    width: 600px;
     margin: 0 auto;
     background-color:rgb(91, 88, 61);
     text-align: center;
     color: aliceblue;
     font-family: Playfair Display;
 }
-.imapudim{
+.imareceitas{
     width: 350px;
     height: 250px;
     margin: auto;
+
 }
 
 .butonpudim{
@@ -24,10 +23,7 @@ body{
     border: 5px solid rgba(0,0,0,0.5);
     border-radius: 10px 15px;
 }
-.imalasanha{
-    
-    width: 350px;
-    height: 250px;
-    margin: auto;
-    
+
+ul{
+    border-bottom: 2px solid ;
 }
