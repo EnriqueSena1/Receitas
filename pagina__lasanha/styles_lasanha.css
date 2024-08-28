@@ -1,0 +1,37 @@
+body{
+    background-color:rgb(91, 88, 61);
+}
+.textlasanha {
+    background-color: rgb(226, 226, 232);
+}
+
+.inicio {
+    padding: 15px;
+    background-color:#865151;
+    color: #fff;
+    text-decoration:none;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+a{
+    
+    color: aliceblue;
+    width: 100px;
+    border-radius: 10px 15px;
+}
+p{
+    text-align: center;
+    color: azure;
+    list-style: 20px;
+    text-align:start;
+}
+h1{
+    text-align: center;
+    color:  rgb(226, 226, 232);
+}
+.subtitulolasanha{
+    color: azure;
+    text-align: center;
+}

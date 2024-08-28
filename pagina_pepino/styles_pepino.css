@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(91, 88, 61);
+    
+    color: rgb(230, 226, 219);
+    font-family: Playfair Display;
+}
+.inicio {
+    padding: 15px;
+    background-color:#865151;
+    color: #fff;
+    text-decoration:none;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
